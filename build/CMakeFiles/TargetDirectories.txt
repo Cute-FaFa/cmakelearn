@@ -1,0 +1,3 @@
+/Users/xujingxia/Documents/CPP_learn/vscode/cmakelearn/build/CMakeFiles/hello.dir
+/Users/xujingxia/Documents/CPP_learn/vscode/cmakelearn/build/CMakeFiles/edit_cache.dir
+/Users/xujingxia/Documents/CPP_learn/vscode/cmakelearn/build/CMakeFiles/rebuild_cache.dir
